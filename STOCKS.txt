@@ -1,0 +1,20 @@
+ABX    Barrick Gold Corporation 001974
+BCE    BCE Inc.                 005083
+BTO    B2Gold Corp.             000308
+BBD-B  Bombardier Inc.          005235
+CSU    Constellation Software   371083
+CTC-A  Canadian Tire Corporation014001
+DIR-UN Dream Industrial REIT    001351
+ELD    Eldorado Gold Corporation001477
+FRU    Freehold Royalties Ltd.  001392
+GIB-A  CGI Inc.                 015480
+JWEL   Jamieson Wellness Inc.   003003
+KMP-UN Killam Apartment REIT    001963
+L      Loblaw Companies Limited 013776
+MRE    Martinrea International  001399 
+NPI    Northland Power Inc.     002400
+QSR    Restaurant Brands Interna010411
+RCI-B  Rogers Communications Inc006155
+RY     Royal Bank of Canada     013194
+T      TELUS Corporation        002394
+WCN    Waste Connections, Inc.  022639
